@@ -1112,17 +1112,17 @@
 /** Only Mobile Menu **/
 @media only screen and (max-width: 991px) {
   .mean-container .mean-bar {
-    background-color: #dddddd;
+    background-color: #fffc;
     padding: 0;
   }
   .mean-container a.meanmenu-reveal {
-    color: #3aae36;
+    color: #368cae;
   }
   .mean-container a.meanmenu-reveal span {
-    background: #3aae36;
+    background: #368cae;
   }
   .mobile-nav .logo {
-    top: 8px;
+    top: -5px;
     line-height: 1;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
